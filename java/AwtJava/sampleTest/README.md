@@ -1,4 +1,4 @@
-# JavaProject-1
-In this repository I will deploy my java files which may helpful for beginner as a reference 
+# JavaProject-1: 
+- In this repository I will deploy all my java files which may helpful for beginner as a reference 
 
-# Contents: this is for reference
+# Contents: This is for Reference
